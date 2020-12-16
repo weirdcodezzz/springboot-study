@@ -1,0 +1,42 @@
+##spring:
+##  profiles:
+##    active: dev
+#
+#person:
+#  lastName: 张三
+#  age: 20
+#  boss: false
+#  birth: 1999/07/03
+#  map: {k1: v1, k2: v2}
+#  list:
+#    - 1
+#    - 2
+#    - 3
+#  dog:
+#    name: 大黄
+#    age: 3
+#
+
+
+spring:
+  profiles:
+    active: dev
+
+
+---
+server:
+  port: 8082
+
+spring:
+  config:
+    activate:
+      on-profile: dev
+
+
+---
+server:
+  port: 8083
+spring:
+  config:
+    activate:
+      on-profile: prod
