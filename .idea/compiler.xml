@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-02-config" />
         <module name="springboot-01-helloworld" />
+        <module name="springboot-04-logging" />
         <module name="springboot-03-autoconfig" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="springboot-01-helloworld" target="1.8" />
       <module name="springboot-02-config" target="1.8" />
       <module name="springboot-03-autoconfig" target="1.8" />
+      <module name="springboot-04-logging" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +25,7 @@
       <module name="springboot-01-helloworld" options="-parameters" />
       <module name="springboot-02-config" options="-parameters" />
       <module name="springboot-03-autoconfig" options="-parameters" />
+      <module name="springboot-04-logging" options="-parameters" />
     </option>
   </component>
 </project>
