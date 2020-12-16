@@ -1,1 +1,10 @@
+# 开启SpringBoot的debug模式
+debug: true
 
+# 我们能配置的属性都来源于这个功能的properties类
+server:
+  servlet:
+    encoding:
+      enabled: true
+      charset: UTF-8
+      force: true
