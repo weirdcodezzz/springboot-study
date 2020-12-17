@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-04-logging/springboot-04-logging.iml" filepath="$PROJECT_DIR$/springboot-04-logging/springboot-04-logging.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-05-restfulcurd/springboot-05-restfulcurd.iml" filepath="$PROJECT_DIR$/springboot-05-restfulcurd/springboot-05-restfulcurd.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-06-data-jdbc/springboot-06-data-jdbc.iml" filepath="$PROJECT_DIR$/springboot-06-data-jdbc/springboot-06-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-07-data-druid/springboot-07-data-druid.iml" filepath="$PROJECT_DIR$/springboot-07-data-druid/springboot-07-data-druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-08-data-mybatis/springboot-08-data-mybatis.iml" filepath="$PROJECT_DIR$/springboot-08-data-mybatis/springboot-08-data-mybatis.iml" />
     </modules>
   </component>
 </project>

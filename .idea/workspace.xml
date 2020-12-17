@@ -2,26 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0420dc1f-879f-455b-81d7-0966662a81e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f05aedf7e7b6069686c77ba6f754b00e92d76a0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b881957739540c19310ddd28aa18b9df431561b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65be1c104f59ec35cfe382cb8fc57c19e2538b20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/768d877536eec5b6759aab0696154935771a5e49" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7824b369a71b9aa511f66aeb132342ebdb09cd2a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79526d42471f1ec258cbba177edb2b9cf9f663e2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eaab772fa449b236ca9cdfcb473d4a84e6a896c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1ef0d4758d10ae6d5d53086575e28a08e7ddb37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d56de863d8f1b3e453b65fb133985c8d3cd355d9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea00ac3cd0bc45f0b00393e4d9dc4ca71aad9cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/springboot-06-data-jdbc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/java/com/luo/datajdbc/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/resources/schema-all.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/resources/schema01.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_base_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_core_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-07-data-druid/springboot-07-data-druid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-07-data-druid/src/main/java/com/luo/druid/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-07-data-druid/src/main/java/com/luo/druid/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/springboot-08-data-mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/java/com/luo/mybatis/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/java/com/luo/mybatis/config/MybatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/java/com/luo/mybatis/mapper/DepartmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/java/com/luo/mybatis/mapper/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/java/com/luo/mybatis/pojo/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/java/com/luo/mybatis/pojo/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/resources/mapper/DepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/resources/sql/department.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/resources/sql/employee.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -93,7 +101,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-08-data-mybatis/src/main/resources/mapper" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -101,43 +109,15 @@
     <property name="settings.editor.splitter.proportion" value="0.20268007" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luo.druid.controller" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\lession\springboot-study\springboot-08-data-mybatis\src\main\resources\mapper" />
       <recent name="E:\code\lession\springboot-study\springboot-06-data-jdbc\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot06DataJdbcApplication">
-    <configuration name="Springboot02ConfigApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-02-config" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luo.config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luo.config" />
-      <option name="MAIN_CLASS_NAME" value="com.luo.config.Springboot02ConfigApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Springboot02ConfigApplicationTests.helloServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-02-config" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luo.config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luo.config" />
-      <option name="MAIN_CLASS_NAME" value="com.luo.config.Springboot02ConfigApplicationTests" />
-      <option name="METHOD_NAME" value="helloServiceTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Springboot08DataMybatisApplicationTests.selectByNameTest">
     <configuration name="Springboot04LoggingApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-04-logging" />
       <extension name="coverage">
@@ -165,6 +145,54 @@
       <option name="PACKAGE_NAME" value="com.luo.datajdbc" />
       <option name="MAIN_CLASS_NAME" value="com.luo.datajdbc.Springboot06DataJdbcApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07DataDruidApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-07-data-druid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.druid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.druid" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.druid.Springboot07DataDruidApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08DataMybatisApplicationTests.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-08-data-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.mybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.mybatis.Springboot08DataMybatisApplicationTests" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08DataMybatisApplicationTests.selectByNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-08-data-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.mybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.mybatis.Springboot08DataMybatisApplicationTests" />
+      <option name="METHOD_NAME" value="selectByNameTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -212,12 +240,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot07DataDruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-07-data-druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luo.druid.Springboot07DataDruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-08-data-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luo.mybatis.Springboot08DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Springboot08DataMybatisApplicationTests.selectByNameTest" />
+        <item itemvalue="JUnit.Springboot08DataMybatisApplicationTests.addTest" />
+        <item itemvalue="JUnit.Springboot07DataDruidApplicationTests.contextLoads" />
         <item itemvalue="JUnit.Springboot06DataJdbcApplicationTests.contextLoads" />
         <item itemvalue="JUnit.Springboot04LoggingApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Springboot02ConfigApplicationTests.helloServiceTest" />
-        <item itemvalue="JUnit.Springboot02ConfigApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +280,7 @@
       <workItem from="1608089874853" duration="11661000" />
       <workItem from="1608111298230" duration="1263000" />
       <workItem from="1608123979316" duration="2109000" />
-      <workItem from="1608167044431" duration="5982000" />
+      <workItem from="1608167044431" duration="13931000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1608089924951</created>
@@ -274,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608167410029</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="jdbc">
+      <created>1608177573954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608177573954</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +335,8 @@
     <MESSAGE value="自动配置原理" />
     <MESSAGE value="日志" />
     <MESSAGE value="swagger" />
-    <option name="LAST_COMMIT_MESSAGE" value="swagger" />
+    <MESSAGE value="jdbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="77" key="#Inspections" timestamp="1608036877208">
@@ -316,78 +367,78 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="741" y="210" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1608032181513" />
-    <state x="289" y="8" key="CommitChangelistDialog2" timestamp="1608167407567">
+    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1608177571018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="289" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608167407567" />
+    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608177571018" />
     <state x="861" y="173" key="FileChooserDialogImpl" timestamp="1608083890252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="861" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608083890252" />
-    <state width="876" height="289" key="GridCell.Tab.0.bottom" timestamp="1608177233085">
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom" timestamp="1608191070200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608177233085" />
-    <state width="876" height="289" key="GridCell.Tab.0.center" timestamp="1608177233084">
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608191070200" />
+    <state width="1493" height="309" key="GridCell.Tab.0.center" timestamp="1608191070200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608177233084" />
-    <state width="876" height="289" key="GridCell.Tab.0.left" timestamp="1608177233084">
+    <state width="1493" height="309" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608191070200" />
+    <state width="1493" height="309" key="GridCell.Tab.0.left" timestamp="1608191070199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608177233084" />
-    <state width="876" height="289" key="GridCell.Tab.0.right" timestamp="1608177233084">
+    <state width="1493" height="309" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608191070199" />
+    <state width="1493" height="309" key="GridCell.Tab.0.right" timestamp="1608191070200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608177233084" />
-    <state width="876" height="289" key="GridCell.Tab.1.bottom" timestamp="1608177232978">
+    <state width="1493" height="309" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608191070200" />
+    <state width="1493" height="19" key="GridCell.Tab.1.bottom" timestamp="1608189268857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
-    <state width="876" height="289" key="GridCell.Tab.1.center" timestamp="1608177232978">
+    <state width="1493" height="19" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608189268857" />
+    <state width="1493" height="19" key="GridCell.Tab.1.center" timestamp="1608189268856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
-    <state width="876" height="289" key="GridCell.Tab.1.left" timestamp="1608177232978">
+    <state width="1493" height="19" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608189268856" />
+    <state width="1493" height="19" key="GridCell.Tab.1.left" timestamp="1608189268856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
-    <state width="876" height="289" key="GridCell.Tab.1.right" timestamp="1608177232978">
+    <state width="1493" height="19" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608189268856" />
+    <state width="1493" height="19" key="GridCell.Tab.1.right" timestamp="1608189268857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
-    <state width="876" height="289" key="GridCell.Tab.2.bottom" timestamp="1608177232978">
+    <state width="1493" height="19" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608189268857" />
+    <state width="876" height="328" key="GridCell.Tab.2.bottom" timestamp="1608185755499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
-    <state width="876" height="289" key="GridCell.Tab.2.center" timestamp="1608177232978">
+    <state width="876" height="328" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608185755499" />
+    <state width="876" height="328" key="GridCell.Tab.2.center" timestamp="1608185755499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
-    <state width="876" height="289" key="GridCell.Tab.2.left" timestamp="1608177232978">
+    <state width="876" height="328" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608185755499" />
+    <state width="876" height="328" key="GridCell.Tab.2.left" timestamp="1608185755499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
-    <state width="876" height="289" key="GridCell.Tab.2.right" timestamp="1608177232978">
+    <state width="876" height="328" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608185755499" />
+    <state width="876" height="328" key="GridCell.Tab.2.right" timestamp="1608185755499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="876" height="289" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608177232978" />
+    <state width="876" height="328" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608185755499" />
     <state x="183" y="115" key="SettingsEditor" timestamp="1608124173993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="183" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608124173993" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1608167420764">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1608177575981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608167420764" />
-    <state x="356" y="161" width="1180" height="561" key="new project wizard" timestamp="1608172576107">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608177575981" />
+    <state x="356" y="259" width="1180" height="556" key="new project wizard" timestamp="1608186070128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="356" y="161" width="1180" height="561" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608172576107" />
-    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608175296642">
+    <state x="356" y="259" width="1180" height="556" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608186070128" />
+    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608191067446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608175296642" />
+    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608191067446" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,6 +447,11 @@
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.1/spring-boot-autoconfigure-2.4.1-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.java</url>
           <line>149</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-07-data-druid/src/test/java/com/luo/druid/Springboot07DataDruidApplicationTests.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
