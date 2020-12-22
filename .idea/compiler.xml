@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-09-data-jpa" />
         <module name="springboot-08-data-mybatis" />
         <module name="springboot-03-autoconfig" />
         <module name="springboot-07-data-druid" />
@@ -26,6 +27,7 @@
       <module name="springboot-06-data-jdbc" target="1.8" />
       <module name="springboot-07-data-druid" target="1.8" />
       <module name="springboot-08-data-mybatis" target="1.8" />
+      <module name="springboot-09-data-jpa" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,6 +40,7 @@
       <module name="springboot-06-data-jdbc" options="-parameters" />
       <module name="springboot-07-data-druid" options="-parameters" />
       <module name="springboot-08-data-mybatis" options="-parameters" />
+      <module name="springboot-09-data-jpa" options="-parameters" />
     </option>
   </component>
 </project>
