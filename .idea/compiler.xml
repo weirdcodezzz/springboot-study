@@ -6,19 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-11-zero-spring-boot-starter-test" />
+        <module name="springboot-06-data-jdbc" />
+        <module name="zero-spring-boot-autoconfigure" />
         <module name="zero-spring-boot-starter" />
-        <module name="springboot-08-data-mybatis" />
         <module name="springboot-10-principle" />
         <module name="springboot-03-autoconfig" />
         <module name="springboot-09-data-jpa" />
         <module name="springboot-02-config" />
         <module name="springboot-01-helloworld" />
         <module name="springboot-07-data-druid" />
+        <module name="springboot-08-data-mybatis" />
+        <module name="springboot-11-zero-spring-boot-starter-test" />
         <module name="springboot-04-logging" />
         <module name="springboot-05-restfulcurd" />
-        <module name="zero-spring-boot-autoconfigure" />
-        <module name="springboot-06-data-jdbc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

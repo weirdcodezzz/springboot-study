@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0420dc1f-879f-455b-81d7-0966662a81e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloServiceAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/zero-spring-boot-autoconfigure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-11-zero-spring-boot-starter-test/src/main/java/com/luo/zerospringbootstartertest/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-spring-boot-starter/zero-spring-boot-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-zero-spring-boot-starter-test/springboot-11-zero-spring-boot-starter-test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/target/classes/META-INF/springboot-02-config.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloServiceAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/zero-spring-boot-autoconfigure.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +297,8 @@
       <workItem from="1608167044431" duration="15082000" />
       <workItem from="1608204738493" duration="1087000" />
       <workItem from="1608214349194" duration="695000" />
-      <workItem from="1608617048946" duration="15447000" />
+      <workItem from="1608617048946" duration="15769000" />
+      <workItem from="1608688127524" duration="1554000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1608089924951</created>
@@ -363,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608627726490</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="自定义starter">
+      <created>1608686568331</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608686568331</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +385,8 @@
     <MESSAGE value="mybatis" />
     <MESSAGE value="spring-data-jpa" />
     <MESSAGE value="启动配置原理" />
-    <option name="LAST_COMMIT_MESSAGE" value="启动配置原理" />
+    <MESSAGE value="自定义starter" />
+    <option name="LAST_COMMIT_MESSAGE" value="自定义starter" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="77" key="#Inspections" timestamp="1608036877208">
@@ -409,10 +417,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="741" y="210" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1608032181513" />
-    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1608627721928">
+    <state x="237" y="0" key="CommitChangelistDialog2" timestamp="1608686565443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608627721928" />
+    <state x="237" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608686565443" />
     <state width="530" height="466" key="DebuggerActiveHint" timestamp="1608622355671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -421,22 +429,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="861" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608630938376" />
-    <state width="928" height="288" key="GridCell.Tab.0.bottom" timestamp="1608686440673">
+    <state width="826" height="203" key="GridCell.Tab.0.bottom" timestamp="1608690421543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
-    <state width="928" height="288" key="GridCell.Tab.0.center" timestamp="1608686440673">
+    <state width="826" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608690421543" />
+    <state width="826" height="203" key="GridCell.Tab.0.center" timestamp="1608690421543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
-    <state width="928" height="288" key="GridCell.Tab.0.left" timestamp="1608686440673">
+    <state width="826" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608690421543" />
+    <state width="826" height="203" key="GridCell.Tab.0.left" timestamp="1608690421540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
-    <state width="928" height="288" key="GridCell.Tab.0.right" timestamp="1608686440673">
+    <state width="826" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608690421540" />
+    <state width="826" height="203" key="GridCell.Tab.0.right" timestamp="1608690421543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
+    <state width="826" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608690421543" />
     <state width="928" height="288" key="GridCell.Tab.1.bottom" timestamp="1608686449049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -473,14 +481,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="183" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608124173993" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1608627730396">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1608686570447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608627730396" />
-    <state x="356" y="262" width="1180" height="556" key="new project wizard" timestamp="1608685822015">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608686570447" />
+    <state x="356" y="262" width="1180" height="556" key="new project wizard" timestamp="1608690166497">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="356" y="262" width="1180" height="556" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608685822015" />
+    <state x="356" y="262" width="1180" height="556" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608690166497" />
     <state x="734" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608628013881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -500,9 +508,9 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.1/spring-boot-2.4.1-sources.jar!/org/springframework/boot/SpringApplication.java</url>
-          <line>326</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/springboot-11-zero-spring-boot-starter-test/src/main/java/com/luo/zerospringbootstartertest/controller/HelloController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
