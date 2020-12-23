@@ -2,44 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0420dc1f-879f-455b-81d7-0966662a81e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00996aa4b391bde19cf4614cd01339acae3e4597" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/1398f159d3c5e8291d267e8533d8f1b3c5656c36" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c3fa4669609d9ea0cca94b51d3d2c7adc69cd87" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c78f68b47d262f997490e37a9e02382bedae906" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f60627448a7add9f2a11e90bc79419a022f81c9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30f263ddab7fae3676b1beadba27718ad0ece0e1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32c4d6d7d4bc84d32018a8139bfc48592f3d28df" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32fee09870d05e388694d87f37eb65fa8d413038" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37b77007cc8df95134f0ba1699967e47fa6a2513" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e403f804eafc06604f85546002d1769de1e2a28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/681b82678b99fe3af76dc35a85eb2d81f64dcbd5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ed62951476a05adcc4765f36fe26815cca88c99" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77dbc3f11ced0d4664e7464bf6102712ba695a85" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8897391d98e0c5decfc85d4395aaa5ca7fb30e00" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93d30cb2db76cf843bcccac87a603c23713f7549" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8034d97ff5cbcff79885b398f48b879e113189f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae0326bde7978e58010953ab5dd682a96bfd3ccb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6a0003f675db918037dccb887ffa5b7e3a9df29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b952d0e3be6f3a32b10192a87c714e446f705ead" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bcf6f4419d6d690489fb859f576e81f4f273ef83" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4907553dc58e978aeec6b020a94765d3095f4a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd1b0b849ba656f13b0a5aa259436ad4357f93c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7927501720e3ce63e9e53c36f2e3b23d1e36135" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcc57c5be1251d3998c63b58871c77c49cbb8c32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e20a48f05e3fcce7801913bc2268982c89ea21e6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5492c5c4be6e05e64bc0fdf30f1c504fd75588f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7c00e4f10c9179b98b1a30903334fb52e3c7a1b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea76055322a7c78181fe4bbf52ee116461cbefa4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef754f4c6bc01dc39f71810a7d8d9c6256648e94" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1a46b54790dab013e1beb6f2a9af839af787d6c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-09-data-jpa/springboot-09-data-jpa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-principle/springboot-10-principle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-principle/src/main/java/com/luo/springbootprinciple/listener/HelloApplicationContextInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-principle/src/main/java/com/luo/springbootprinciple/listener/HelloApplicationRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-principle/src/main/java/com/luo/springbootprinciple/listener/HelloCommandLineRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-principle/src/main/java/com/luo/springbootprinciple/listener/HelloSpringApplicationRunListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-10-principle/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/java/com/luo/starter/HelloServiceAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/zero-spring-boot-autoconfigure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-11-zero-spring-boot-starter-test/src/main/java/com/luo/zerospringbootstartertest/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zero-spring-boot-starter/zero-spring-boot-starter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -127,7 +97,7 @@
       <recent name="E:\code\lession\springboot-study\springboot-06-data-jdbc\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot10PrincipleApplication">
+  <component name="RunManager" selected="Spring Boot.Springboot11ZeroSpringBootStarterTestApplication">
     <configuration name="Springboot04LoggingApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-04-logging" />
       <extension name="coverage">
@@ -278,6 +248,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot11ZeroSpringBootStarterTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-11-zero-spring-boot-starter-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luo.zerospringbootstartertest.Springboot11ZeroSpringBootStarterTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroSpringBootAutoconfigureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zero-spring-boot-autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luo.starter.ZeroSpringBootAutoconfigureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroSpringBootStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zero-spring-boot-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luo.starter.ZeroSpringBootStarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Springboot08DataMybatisApplicationTests.selectByNameTest" />
@@ -307,7 +298,7 @@
       <workItem from="1608167044431" duration="15082000" />
       <workItem from="1608204738493" duration="1087000" />
       <workItem from="1608214349194" duration="695000" />
-      <workItem from="1608617048946" duration="10519000" />
+      <workItem from="1608617048946" duration="15447000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1608089924951</created>
@@ -365,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608620108386</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="启动配置原理">
+      <created>1608627726490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608627726490</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +377,8 @@
     <MESSAGE value="jdbc" />
     <MESSAGE value="mybatis" />
     <MESSAGE value="spring-data-jpa" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring-data-jpa" />
+    <MESSAGE value="启动配置原理" />
+    <option name="LAST_COMMIT_MESSAGE" value="启动配置原理" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="77" key="#Inspections" timestamp="1608036877208">
@@ -398,10 +397,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608176366716" />
-    <state x="791" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1608626301248">
+    <state x="791" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1608686066538">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="791" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608626301248" />
+    <state x="791" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608686066538" />
     <state x="716" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608037183594">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -410,82 +409,82 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="741" y="210" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1608032181513" />
-    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1608620105838">
+    <state x="324" y="0" key="CommitChangelistDialog2" timestamp="1608627721928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608620105838" />
+    <state x="324" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608627721928" />
     <state width="530" height="466" key="DebuggerActiveHint" timestamp="1608622355671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="530" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1608622355671" />
-    <state x="861" y="173" key="FileChooserDialogImpl" timestamp="1608083890252">
+    <state x="861" y="173" key="FileChooserDialogImpl" timestamp="1608630938376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="861" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608083890252" />
-    <state width="1493" height="325" key="GridCell.Tab.0.bottom" timestamp="1608627510500">
+    <state x="861" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608630938376" />
+    <state width="928" height="288" key="GridCell.Tab.0.bottom" timestamp="1608686440673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="1493" height="325" key="GridCell.Tab.0.center" timestamp="1608627510500">
+    <state width="928" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
+    <state width="928" height="288" key="GridCell.Tab.0.center" timestamp="1608686440673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="1493" height="325" key="GridCell.Tab.0.left" timestamp="1608627510500">
+    <state width="928" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
+    <state width="928" height="288" key="GridCell.Tab.0.left" timestamp="1608686440673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="1493" height="325" key="GridCell.Tab.0.right" timestamp="1608627510500">
+    <state width="928" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
+    <state width="928" height="288" key="GridCell.Tab.0.right" timestamp="1608686440673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="1493" height="325" key="GridCell.Tab.1.bottom" timestamp="1608627510500">
+    <state width="928" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608686440673" />
+    <state width="928" height="288" key="GridCell.Tab.1.bottom" timestamp="1608686449049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="1493" height="325" key="GridCell.Tab.1.center" timestamp="1608627510500">
+    <state width="928" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608686449049" />
+    <state width="928" height="288" key="GridCell.Tab.1.center" timestamp="1608686449048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="1493" height="325" key="GridCell.Tab.1.left" timestamp="1608627510500">
+    <state width="928" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608686449048" />
+    <state width="928" height="288" key="GridCell.Tab.1.left" timestamp="1608686449048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="1493" height="325" key="GridCell.Tab.1.right" timestamp="1608627510500">
+    <state width="928" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608686449048" />
+    <state width="928" height="288" key="GridCell.Tab.1.right" timestamp="1608686449048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="325" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608627510500" />
-    <state width="928" height="288" key="GridCell.Tab.2.bottom" timestamp="1608625202980">
+    <state width="928" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608686449048" />
+    <state width="928" height="288" key="GridCell.Tab.2.bottom" timestamp="1608686440556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608625202980" />
-    <state width="928" height="288" key="GridCell.Tab.2.center" timestamp="1608625202980">
+    <state width="928" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608686440556" />
+    <state width="928" height="288" key="GridCell.Tab.2.center" timestamp="1608686440556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608625202980" />
-    <state width="928" height="288" key="GridCell.Tab.2.left" timestamp="1608625202980">
+    <state width="928" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608686440556" />
+    <state width="928" height="288" key="GridCell.Tab.2.left" timestamp="1608686440556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608625202980" />
-    <state width="928" height="288" key="GridCell.Tab.2.right" timestamp="1608625202980">
+    <state width="928" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608686440556" />
+    <state width="928" height="288" key="GridCell.Tab.2.right" timestamp="1608686440556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="928" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608625202980" />
+    <state width="928" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608686440556" />
     <state x="183" y="115" key="SettingsEditor" timestamp="1608124173993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="183" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608124173993" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1608620115833">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1608627730396">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608620115833" />
-    <state x="256" y="107" width="1180" height="556" key="new project wizard" timestamp="1608620460621">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608627730396" />
+    <state x="356" y="262" width="1180" height="556" key="new project wizard" timestamp="1608685822015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="256" y="107" width="1180" height="556" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608620460621" />
-    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608191067446">
+    <state x="356" y="262" width="1180" height="556" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608685822015" />
+    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608628013881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608191067446" />
+    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608628013881" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

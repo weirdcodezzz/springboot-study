@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-11-zero-spring-boot-starter-test" />
+        <module name="zero-spring-boot-starter" />
         <module name="springboot-08-data-mybatis" />
         <module name="springboot-10-principle" />
         <module name="springboot-03-autoconfig" />
@@ -15,6 +17,7 @@
         <module name="springboot-07-data-druid" />
         <module name="springboot-04-logging" />
         <module name="springboot-05-restfulcurd" />
+        <module name="zero-spring-boot-autoconfigure" />
         <module name="springboot-06-data-jdbc" />
       </profile>
     </annotationProcessing>
@@ -30,6 +33,10 @@
       <module name="springboot-08-data-mybatis" target="1.8" />
       <module name="springboot-09-data-jpa" target="1.8" />
       <module name="springboot-10-principle" target="1.8" />
+      <module name="springboot-11-starter" target="1.8" />
+      <module name="springboot-11-zero-spring-boot-starter-test" target="1.8" />
+      <module name="zero-spring-boot-autoconfigure" target="1.8" />
+      <module name="zero-spring-boot-starter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -44,6 +51,9 @@
       <module name="springboot-08-data-mybatis" options="-parameters" />
       <module name="springboot-09-data-jpa" options="-parameters" />
       <module name="springboot-10-principle" options="-parameters" />
+      <module name="springboot-11-zero-spring-boot-starter-test" options="-parameters" />
+      <module name="zero-spring-boot-autoconfigure" options="-parameters" />
+      <module name="zero-spring-boot-starter" options="" />
     </option>
   </component>
 </project>

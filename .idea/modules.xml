@@ -12,6 +12,10 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-08-data-mybatis/springboot-08-data-mybatis.iml" filepath="$PROJECT_DIR$/springboot-08-data-mybatis/springboot-08-data-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-09-data-jpa/springboot-09-data-jpa.iml" filepath="$PROJECT_DIR$/springboot-09-data-jpa/springboot-09-data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-10-principle/springboot-10-principle.iml" filepath="$PROJECT_DIR$/springboot-10-principle/springboot-10-principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-starter/springboot-11-starter.iml" filepath="$PROJECT_DIR$/springboot-11-starter/springboot-11-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-zero-spring-boot-starter-test/springboot-11-zero-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/springboot-11-zero-spring-boot-starter-test/springboot-11-zero-spring-boot-starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/zero-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/springboot-11-starter/zero-spring-boot-autoconfigure/zero-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-spring-boot-starter/zero-spring-boot-starter.iml" filepath="$PROJECT_DIR$/zero-spring-boot-starter/zero-spring-boot-starter.iml" />
     </modules>
   </component>
 </project>
